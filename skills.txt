@@ -5,4 +5,5 @@ Ansible
 Kubernetes
 Monitoring
 Tomcat
+AWS Cloud
 Azure DevOps
