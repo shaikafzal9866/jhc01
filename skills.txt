@@ -7,3 +7,4 @@ Monitoring
 Tomcat
 AWS Cloud
 Azure DevOps
+Google Cloud Platform
